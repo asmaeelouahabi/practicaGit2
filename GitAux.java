@@ -6,12 +6,13 @@ package prgitejemplo;
 
 /**
  *
- * @author bertoa
+ * @author 
  */
 public class GitAux {
     
     public void metodoAlumno1(){
         System.out.println("metodo 1");
+//asmae el ouahabi 
     }
     
     public void metodoAlumno2(){
