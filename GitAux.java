@@ -10,12 +10,14 @@ package prgitejemplo;
  */
 public class GitAux {
     
-    public void metodoAlumno1(){
+    public void metodo1(){
         System.out.println("metodo 1");
+        System.out.println("MODIFICADO POR ASMAE");
+        
 //asmae el ouahabi 
     }
     
-    public void metodoAlumno2(){
+    public void metodo2(){
         System.out.println("metodo 2");
     }
     
